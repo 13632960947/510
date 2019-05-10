@@ -1,0 +1,1 @@
+include ':app', ':myviewgroup', ':myrxjava', ':myrxjava2', ':MyRxJava3', ':MyRxJavaApp', ':myservice', ':test'
